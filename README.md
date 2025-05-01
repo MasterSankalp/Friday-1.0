@@ -11,10 +11,10 @@
 </div>
 
 
-<h1 align="center">Jarvis-4.0</h1>
+<h1 align="center">Friday-1.0</h1>
 
 <p align="center">
-  <b>The Most Advanced Jarvis on YouTube, Coming Soon!</b> 🚀
+  <b>The Most Advanced Friday on the planet, Coming Soon!</b> 🚀
 </p>
 <div align="center">
     <div class="social-buttons" style="margin-bottom: 20px;">
@@ -41,50 +41,25 @@
 
 <div align="justify">
 
-  **Welcome, Visionaries!** 👋 Get ready to witness the evolution of personal assistants! This repository is the official home of **Jarvis-4.0**, the most sophisticated and feature-rich Jarvis iteration ever showcased on YouTube! :youtube:
+  **Welcome, Visionaries!** 👋 Get ready to witness the evolution of personal assistants! This repository is the official home of **Friday-1.0**, the most sophisticated and feature-rich Friday iteration ever showcased on YouTube! :youtube:
 
-  We're building something extraordinary here, and you're invited to be a part of it. This repository currently contains the foundational boilerplate. But here's the exciting part: **The complete, fully functional, and mind-blowing source code of Jarvis-4.0 will be made available to the public once this repository reaches the milestone of 1000 stars!** ⭐
+  We're building something extraordinary here, and you're invited to be a part of it. This repository currently contains the foundational boilerplate. But here's the exciting part: **The complete, fully functional, and mind-blowing source code of Friday-1.0 will be made available to the public once this repository reaches the milestone of 1000 stars!** ⭐
 
-  Your star isn't just a symbol of appreciation; it's a powerful vote of confidence. It's a direct contribution to unlocking the full potential of Jarvis-4.0 and making this advanced technology accessible to everyone. Join us on this journey, let's reach 1000 stars together, and revolutionize the world of personal assistants!
+  Your star isn't just a symbol of appreciation; it's a powerful vote of confidence. It's a direct contribution to unlocking the full potential of Friday-1.0 and making this advanced technology accessible to everyone. Join us on this journey, let's reach 1000 stars together, and revolutionize the world of personal assistants!
 
-</div>
 
-<br/>
-
-<hr style="border:1px solid #333;">
-
-<br/>
-
-<h2>
-  <span class="emoji">🔗</span> <b>Roadmap & More Details</b>
-</h2>
-
-<div align="justify">
-
-  Curious to learn more about the future of Jarvis-4.0? Explore the detailed development roadmap and in-depth feature descriptions at the following links:
-
-  *   **Roadmap Series:** [https://roadmap.jarvis.sree.shop](https://roadmap.jarvis.sree.shop)
-  *   **Feature List & Details:** [https://jarvis.sree.shop](https://jarvis.sree.shop)
-
-</div>
-
-<br/>
-
-<hr style="border:1px solid #333;">
-
-<br/>
 
 
 <hr style="border:1px solid #333;">
 <br/>
 
 <h2>
-  <span class="emoji">👀</span> <b>Jarvis-4.0: A Glimpse into the Future</b>
+  <span class="emoji">👀</span> <b>Friday-1.0: A Glimpse into the Future</b>
 </h2>
 
 <div align="justify">
 
-  Jarvis-4.0 is not just another personal assistant; it's a meticulously engineered, cutting-edge AI companion designed to seamlessly integrate into your digital life. It boasts a vast array of functionalities, all working in harmony to provide an unparalleled user experience. Here's a preview of the groundbreaking features that await you:
+  Friday-1.0 is not just another personal assistant; it's a meticulously engineered, cutting-edge AI companion designed to seamlessly integrate into your digital life. It boasts a vast array of functionalities, all working in harmony to provide an unparalleled user experience. Here's a preview of the groundbreaking features that await you:
 
 </div>
 
